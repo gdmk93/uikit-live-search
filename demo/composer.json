@@ -1,0 +1,6 @@
+{
+    "require": {
+        "leafs/leaf": "v4.0",
+        "leafs/blade": "v4"
+    }
+}

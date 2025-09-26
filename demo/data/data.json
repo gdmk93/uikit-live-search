@@ -1,0 +1,226 @@
+[
+  {
+    "type": "character",
+    "name": "SpongeBob SquarePants",
+    "slug": "spongebob-squarepants",
+    "aliases": ["SpongeBob", "Bob", "SquarePants", "Spongy"],
+    "description": "An optimistic and energetic sea sponge who lives in a pineapple house under the sea. He works as a fry cook at the Krusty Krab."
+  },
+  {
+    "type": "character",
+    "name": "Patrick Star",
+    "slug": "patrick-star",
+    "aliases": ["Patrick", "Pat", "Starfish"],
+    "description": "SpongeBob's best friend, a pink starfish who lives under a rock and is known for his silliness."
+  },
+  {
+    "type": "character",
+    "name": "Squidward Tentacles",
+    "slug": "squidward-tentacles",
+    "aliases": ["Squidward", "Squid", "Tentacles"],
+    "description": "SpongeBob's grumpy neighbor and co-worker who plays the clarinet."
+  },
+  {
+    "type": "character",
+    "name": "Mr. Krabs",
+    "slug": "mr-krabs",
+    "aliases": ["Eugene Krabs", "Krabs", "Mr. Krab"],
+    "description": "The money-loving owner of the Krusty Krab, obsessed with wealth."
+  },
+  {
+    "type": "character",
+    "name": "Plankton",
+    "slug": "plankton",
+    "aliases": ["Sheldon Plankton", "Plankton", "Sheldon"],
+    "description": "Owner of the Chum Bucket and rival of Mr. Krabs, always scheming to steal the Krabby Patty formula."
+  },
+  {
+    "type": "character",
+    "name": "Sandy Cheeks",
+    "slug": "sandy-cheeks",
+    "aliases": ["Sandy", "Cheeks", "Squirrel"],
+    "description": "A squirrel from Texas who lives underwater in a treedome and is skilled in karate and science."
+  },
+  {
+    "type": "character",
+    "name": "Gary the Snail",
+    "slug": "gary-the-snail",
+    "aliases": ["Gary", "Snail", "Meow"],
+    "description": "SpongeBob's pet snail who communicates by meowing."
+  },
+  {
+    "type": "character",
+    "name": "Pearl Krabs",
+    "slug": "pearl-krabs",
+    "aliases": ["Pearl", "Krabs' Daughter"],
+    "description": "Mr. Krabs' teenage whale daughter who loves shopping and cheerleading."
+  },
+  {
+    "type": "character",
+    "name": "Mrs. Puff",
+    "slug": "mrs-puff",
+    "aliases": ["Puff", "Boating Teacher"],
+    "description": "The boating school teacher who constantly suffers because of SpongeBob's driving."
+  },
+  {
+    "type": "character",
+    "name": "Mermaid Man",
+    "slug": "mermaid-man",
+    "aliases": ["Mermaidman", "Superhero"],
+    "description": "An elderly superhero and childhood idol of SpongeBob and Patrick."
+  },
+  {
+    "type": "character",
+    "name": "Barnacle Boy",
+    "slug": "barnacle-boy",
+    "aliases": ["Barnacleboy", "Sidekick"],
+    "description": "Mermaid Man's loyal sidekick who is often annoyed by being treated like a child."
+  },
+  {
+    "type": "character",
+    "name": "Flying Dutchman",
+    "slug": "flying-dutchman",
+    "aliases": ["Ghost", "Dutchman"],
+    "description": "A green ghostly pirate who haunts Bikini Bottom."
+  },
+  {
+    "type": "character",
+    "name": "Larry the Lobster",
+    "slug": "larry-the-lobster",
+    "aliases": ["Larry", "Lifeguard"],
+    "description": "A muscular lobster and lifeguard at Goo Lagoon."
+  },
+  {
+    "type": "character",
+    "name": "Bubble Bass",
+    "slug": "bubble-bass",
+    "aliases": ["Bass", "Bubble Guy"],
+    "description": "A large fish known for tricking SpongeBob and being picky with his food orders."
+  },
+  {
+    "type": "character",
+    "name": "Man Ray",
+    "slug": "man-ray",
+    "aliases": ["Ray", "Villain"],
+    "description": "The archenemy of Mermaid Man and Barnacle Boy."
+  },
+  {
+    "type": "building",
+    "name": "Krusty Krab",
+    "slug": "krusty-krab",
+    "aliases": ["Restaurant", "Krabby Krab", "Mr. Krabs' place"],
+    "description": "The most popular fast-food restaurant in Bikini Bottom, famous for its Krabby Patties."
+  },
+  {
+    "type": "building",
+    "name": "Chum Bucket",
+    "slug": "chum-bucket",
+    "aliases": ["Plankton's Restaurant", "Chum"],
+    "description": "Plankton's unpopular restaurant located across from the Krusty Krab."
+  },
+  {
+    "type": "building",
+    "name": "SpongeBob's House",
+    "slug": "spongebobs-house",
+    "aliases": ["Pineapple House", "SpongeBob's Pineapple"],
+    "description": "SpongeBob's pineapple-shaped home with a library and backyard."
+  },
+  {
+    "type": "building",
+    "name": "Squidward's House",
+    "slug": "squidwards-house",
+    "aliases": ["Easter Island Head", "Squidward's Home"],
+    "description": "A moai-style house where Squidward lives, right next to SpongeBob."
+  },
+  {
+    "type": "building",
+    "name": "Patrick's Rock",
+    "slug": "patricks-rock",
+    "aliases": ["Rock House", "Patrick's Home"],
+    "description": "Patrick's simple rock house, which he lifts like a lid."
+  },
+  {
+    "type": "building",
+    "name": "Mrs. Puff's Boating School",
+    "slug": "mrs-puffs-boating-school",
+    "aliases": ["Driving School", "Boating School"],
+    "description": "The boating school where SpongeBob repeatedly fails his driving tests."
+  },
+  {
+    "type": "building",
+    "name": "Goo Lagoon",
+    "slug": "goo-lagoon",
+    "aliases": ["Lagoon", "Beach"],
+    "description": "A popular beach where the residents of Bikini Bottom relax and swim."
+  },
+  {
+    "type": "item",
+    "name": "Krabby Patty",
+    "slug": "krabby-patty",
+    "aliases": ["Krabby Burger", "Patty", "Secret Burger"],
+    "description": "The iconic burger from the Krusty Krab, known for its secret formula."
+  },
+  {
+    "type": "item",
+    "name": "Jellyfishing Net",
+    "slug": "jellyfishing-net",
+    "aliases": ["Net", "Jellyfish Net"],
+    "description": "A simple net used by SpongeBob and Patrick to catch jellyfish."
+  },
+  {
+    "type": "item",
+    "name": "Magic Pencil",
+    "slug": "magic-pencil",
+    "aliases": ["Doodle Pencil", "Giant Pencil"],
+    "description": "A magical pencil that brings drawings to life."
+  },
+  {
+    "type": "item",
+    "name": "Bubble Wand",
+    "slug": "bubble-wand",
+    "aliases": ["Wand", "Bubble Maker"],
+    "description": "A wand SpongeBob uses to blow creative bubbles."
+  },
+  {
+    "type": "item",
+    "name": "Golden Spatula",
+    "slug": "golden-spatula",
+    "aliases": ["Spatula", "Cooking Tool"],
+    "description": "A legendary spatula often used as a collectible in SpongeBob games."
+  },
+  {
+    "type": "event",
+    "name": "Bubble Bowl",
+    "slug": "bubble-bowl",
+    "aliases": ["Super Bowl parody", "Stadium Concert"],
+    "description": "A legendary stadium event where SpongeBob and his friends performed 'Sweet Victory'."
+  },
+  {
+    "type": "event",
+    "name": "Fry Cook Games",
+    "slug": "fry-cook-games",
+    "aliases": ["Cooking Olympics", "Games"],
+    "description": "An Olympic-style competition for fry cooks in Bikini Bottom."
+  },
+  {
+    "type": "event",
+    "name": "Jellyfishing Trip",
+    "slug": "jellyfishing-trip",
+    "aliases": ["Jellyfishing", "Trip"],
+    "description": "A popular pastime where SpongeBob and Patrick catch jellyfish."
+  },
+  {
+    "type": "event",
+    "name": "Boating Exam",
+    "slug": "boating-exam",
+    "aliases": ["Driving Test", "Exam"],
+    "description": "The boating license test that SpongeBob constantly fails."
+  },
+  {
+    "type": "event",
+    "name": "Best Day Ever",
+    "slug": "best-day-ever",
+    "aliases": ["Perfect Day", "Happiest Day"],
+    "description": "A cheerful day planned by SpongeBob that goes hilariously wrong."
+  }
+]
