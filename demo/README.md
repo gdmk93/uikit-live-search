@@ -1,5 +1,7 @@
 # UIkit Live Search Demo
 
+![Live Search Demo](demo.gif)
+
 Demo for the `uikit-live-search` component with [UIkit](https://getuikit.com) and [Leaf PHP](https://leafphp.dev).
 
 ## Prerequisites
