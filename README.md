@@ -35,7 +35,7 @@ To integrate the Live Search component, include the form, template, and initiali
         <button uk-live-search-command="input.clear:focus" type="button" class="uk-live-search-control uk-margin-small-right" uk-icon="close"></button>
         <button type="submit" class="uk-live-search-control uk-margin-small-right" uk-icon="search"></button>
     </div>
-    <div id="navbar-dropdown-search" uk-dropdown="toggle: false; mode: click;" class="uk-height-max-large uk-padding-remove"></div>
+    <div id="uk-live-search-result" uk-dropdown="toggle: false; mode: click;" class="uk-height-max-large uk-padding-remove"></div>
 </form>
 
 <template id="uk-live-search-template">
