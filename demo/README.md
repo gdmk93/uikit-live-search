@@ -18,12 +18,17 @@ Demo for the `uikit-live-search` component with [UIkit](https://getuikit.com) an
    composer install
    ```
 
-3. Run the Leaf PHP server:
+3. Install Leaf CLI globally:
+   ```bash
+   composer global require leafs/cli -W
+   ```
+
+4. Run the Leaf PHP server:
    ```bash
    leaf serve
    ```
 
-4. Open `http://localhost:5500` in your browser.
+5. Open `http://localhost:5500` in your browser.
 
 ## How It Works
 To understand the implementation, check the following files:
